@@ -7,6 +7,7 @@ app = FastAPI()
 
 
 class DeliveryData(BaseModel):
+    Delivery_person_Ratings: float
     Vehicle_condition: int
     distance: float
     multiple_deliveries: int
@@ -27,5 +28,5 @@ def home():
 
 @app.post("/predict", response_model=PredictionOut)
 def predict(payload: DeliveryData):
-    estimated_delivery_time = predict_timetkaen(payload)
-    return  estimated_delivery_time
+    estimated_delivery_time = predict_timetkaen(payload.dict())
+    return  PredictionOut(estimated_delivery_time=estimated_delivery_time)

@@ -1,0 +1,16 @@
+Delivery_person_Age,Delivery_person_Ratings,Vehicle_condition,distance,Time_taken(min),order_preparation_time,multiple_deliveries,Weatherconditions,Road_traffic_density,Type_of_order,Type_of_vehicle,Festival,City,indic
+30.0,4.7,3.0,6.0,,10.0,1.0,Fog,Low ,Drinks ,electric_scooter ,No ,Metropolitian ,test
+28.0,4.6,0.0,17.0,,5.0,1.0,Windy,Jam ,Snack ,motorcycle ,No ,Metropolitian ,test
+23.0,4.5,0.0,13.0,,10.0,1.0,Stormy,Jam ,Drinks ,motorcycle ,No ,Metropolitian ,test
+21.0,4.8,1.0,13.0,,5.0,1.0,Fog,Medium ,Meal ,scooter ,No ,Metropolitian ,test
+31.0,4.6,2.0,17.0,,15.0,1.0,Sunny,Medium ,Drinks ,scooter ,No ,Metropolitian ,test
+26.0,4.7,0.0,1.0,,10.0,1.0,Fog,Low ,Drinks ,motorcycle ,No ,Metropolitian ,test
+23.0,4.8,2.0,3.0,,5.0,0.0,Windy,Low ,Buffet ,scooter ,No ,Urban ,test
+26.0,4.8,0.0,7.0,,5.0,1.0,Windy,Medium ,Meal ,motorcycle ,No ,Metropolitian ,test
+35.0,4.9,2.0,13.0,,15.0,1.0,Cloudy,Jam ,Snack ,scooter ,No ,Metropolitian ,test
+23.0,4.9,1.0,4.0,,10.0,0.0,Fog,Jam ,Meal ,motorcycle ,No ,Metropolitian ,test
+24.0,4.8,2.0,6.0,,5.0,1.0,Stormy,High ,Snack ,motorcycle ,No ,Metropolitian ,test
+22.0,4.6,1.0,17.0,,10.0,1.0,Windy,Low ,Drinks ,scooter ,No ,Urban ,test
+35.0,4.8,2.0,9.0,,10.0,0.0,Sunny,Low ,Snack ,scooter ,No ,Metropolitian ,test
+33.0,4.8,2.0,17.0,,15.0,0.0,Windy,Low ,Drinks ,electric_scooter ,No ,Urban ,test
+36.0,4.6,1.0,9.0,,10.0,0.0,Fog,Jam ,Meal ,scooter ,No ,Metropolitian ,test
